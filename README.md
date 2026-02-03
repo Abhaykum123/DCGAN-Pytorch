@@ -8,7 +8,7 @@ This project demonstrates how GANs can learn complex data distributions and gene
 <img src="task_mnist/samples/56.png" width="200">
 
 ## Sample Output after training on CelebFaces Dataset
-<img src="task_celeb/samples/9.png" width="200">
+<img src="task_celeb/samples/11.png" width="200">
 
 Research paper reference: https://arxiv.org/abs/1511.06434
 
